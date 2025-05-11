@@ -1,8 +1,8 @@
 # Exercise-5-Web-Scraping-Data
 
 ~~~
-Name : JOHN PALL M
-Reg.No : 212224040140
+Name : B. DHANUSH KUMAR
+Reg.No : 212224240034
 ~~~
 
 ## Aim:
